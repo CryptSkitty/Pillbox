@@ -8,4 +8,4 @@ A robust firewall designed for use by penetration testing machines, specifically
   Pillbox works like a traditional iptables based firewall, with a few notable exceptions. Pillbox supports the usage of iptables-save, but does not automatically load saved states. Instead, pillbox loads it's 'base state' as configured in the script, and when prodded, will load other states. Certain functions of pillbox require a bit of host configuration in the way of ***slight*** modifications to Nmap. Sudo configuration is encouraged.
 
 ## Contributing:
-  If you wish to contribute, by all means do, just reach out.
+  If you wish to contribute, by all means do.
